@@ -13,6 +13,6 @@ public class IntToBinary {
             a/=2;
         }
         System.out.println(bin); // printing the bin
-        
+
     }
 }
