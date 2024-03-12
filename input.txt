@@ -1,0 +1,15 @@
+Json:
+{
+    {
+        "title": "The Great Gatsby",
+        "authors": {“main”:"F. Scott Fitzgerald", “second”:”Matt”}
+        "genre": "Classic",
+        "publication_year": 1925
+    }
+    {
+        "title": "The Great Prince",
+        "authors": {“main”:" L. Scott Fitzgerald", “second”:”Fin Pal”}
+        "genre": "Classic",
+        "publication_year": 1926
+    }
+}
